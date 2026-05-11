@@ -29,5 +29,6 @@
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gjdbsdk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjdbsdk&layout=compact)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gjdbsdk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/gjdbsdk)
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gjdbsdk&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/gjdbsdk)
